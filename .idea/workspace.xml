@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72926e67-f3e0-4795-80f4-e9037335c97d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/utils/CalendarFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/georve/model/Speaker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/georve/model/Speaker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/georve/repository/HibernateSpeakerRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/georve/repository/HibernateSpeakerRepositoryImp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/georve/service/SpeakerServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/georve/service/SpeakerServiceImp.java" afterDir="false" />
     </list>
