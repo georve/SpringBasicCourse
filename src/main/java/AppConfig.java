@@ -16,7 +16,9 @@ public class AppConfig {
 
     @Bean(name="SpeakerService")
     public SpeakerService getSpeakerService(){
-        SpeakerServiceImp sp=new SpeakerServiceImp(this.getSpeakerRepository());
+        //manually injection
+        //SpeakerServiceImp sp=new SpeakerServiceImp(this.getSpeakerRepository());
+        SpeakerServiceImp sp=new SpeakerServiceImp();
         return sp;
 
     }
